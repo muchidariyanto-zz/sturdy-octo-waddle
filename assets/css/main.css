@@ -1327,7 +1327,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
-		color: #777777;
+		color: #ddd;
 		font-size: 20pt;
 		line-height: 1.75em;
 	}
@@ -1623,7 +1623,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background-color: #777777;
+			background-color: #ddd;
 		}
 
 			input[type="button"].alt:hover,
